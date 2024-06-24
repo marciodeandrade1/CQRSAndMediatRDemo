@@ -22,7 +22,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Commands\" />
     <Folder Include="Controllers\" />
     <Folder Include="Handlers\" />
   </ItemGroup>

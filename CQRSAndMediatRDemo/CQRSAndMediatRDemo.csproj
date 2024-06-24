@@ -25,7 +25,6 @@
     <Folder Include="Commands\" />
     <Folder Include="Controllers\" />
     <Folder Include="Handlers\" />
-    <Folder Include="Queries\" />
   </ItemGroup>
 
 </Project>
